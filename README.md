@@ -1,8 +1,8 @@
 
-<link rel="import" href="version.html"></link>
+<link rel="import" href="https://raw.githubusercontent.com/mcarans/test/master/version.html"></link>
 
 
-<div w3-include-html="version.html"></div>
+<div w3-include-html="https://raw.githubusercontent.com/mcarans/test/master/version.html"></div>
 
 
 [![Build Status](https://travis-ci.org/OCHA-DAP/hdx-python-api.svg?branch=master&rd=2)](https://travis-ci.org/OCHA-DAP/hdx-python-api) [![Coverage Status](https://coveralls.io/repos/github/OCHA-DAP/hdx-python-api/badge.svg?branch=master&rd=2)](https://coveralls.io/github/OCHA-DAP/hdx-python-api?branch=master)
