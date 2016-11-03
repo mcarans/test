@@ -1,7 +1,7 @@
-<link rel="import" href="hdx/version.txt">
+<link rel="import" href="version.txt">
 
 
-<div w3-include-html="hdx/version.txt"></div>
+<div w3-include-html="version.txt"></div>
 
 
 [![Build Status](https://travis-ci.org/OCHA-DAP/hdx-python-api.svg?branch=master&rd=2)](https://travis-ci.org/OCHA-DAP/hdx-python-api) [![Coverage Status](https://coveralls.io/repos/github/OCHA-DAP/hdx-python-api/badge.svg?branch=master&rd=2)](https://coveralls.io/github/OCHA-DAP/hdx-python-api?branch=master)
