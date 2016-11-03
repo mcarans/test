@@ -1,4 +1,5 @@
-<link rel="import" href="version.html">
+
+<link rel="import" href="version.html"></link>
 
 
 <div w3-include-html="version.html"></div>
